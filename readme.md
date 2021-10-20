@@ -15,12 +15,16 @@ The solution is
 ```math
 x = 2    
 y = -1    
-f(2, -1) = -6
+f(x, y) = -6
 ```
 Refer reference 2) for details.
 ### Alternate mimimization
 1) Initialize a value of x
 2) For the fixed value of x, optimize f(x, y) for y(keeping x constant)
 3) For the optimzed value of y(y*), optimize f(x, y) for x(keeping y* constant)
+#### Obtained solution
 
-
+x =  2.0051544
+y =  -1.1908405
+f(x, y) = -5.9291
+```
