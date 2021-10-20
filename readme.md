@@ -1,4 +1,5 @@
 # Alternate Optimization using Pytorch
+This a python notebook to understand alternate optimization approach for a simple function in two variables.
 ## References
 1) Pytorch as general optimizer: https://towardsdatascience.com/how-to-use-pytorch-as-a-general-optimizer-a91cbf72a7fb
 2) Alternate minimization problem: https://kusemanohar.info/2019/10/15/alternating-minimization/
